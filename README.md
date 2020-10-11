@@ -1,6 +1,9 @@
-### Hi there 👋
+<a href="https://github.com/k-ardliyan">
+  <img src="https://media.giphy.com/media/dI3D3BWfDub0Q/giphy.gif" width="100%" alt="Rain">
+</a>
+<!--### Hi there 👋
 
-<!--
+
 **k-ardliyan/k-ardliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
