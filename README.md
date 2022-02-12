@@ -1,19 +1,17 @@
-<a href="https://github.com/k-ardliyan">
-  <img src="https://media.giphy.com/media/dI3D3BWfDub0Q/giphy.gif" width="100%" alt="Rain">
-</a>
-<!--### Hi there 👋
-55ye-pveq-xswk-ypg2-2vb6
-8s8w-c4ay-wrqt-4c16-b7ey
-**k-ardliyan/k-ardliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center><a href="https://github.com/k-ardliyan">
+  <img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" width="200px" alt="Hi!">
+</a></center>
+<br>
+### Hi there 👋
+
+<!-- **k-ardliyan/k-ardliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: ... -->
+- 🔭 I’m currently working on Skripsi
+- 🌱 I’m currently learning MySQL, PHP, MVC
+- 👯 I’m looking to collaborate on Slicing to HTML/CSS
+- 🤔 I’m looking for help with Design App
+- 💬 Ask me about Front-end Web
+- 📫 How to reach me on Discord User Ka.#5279
+- ⚡ Fun fact: just use google translate.
