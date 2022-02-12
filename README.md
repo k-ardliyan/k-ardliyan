@@ -1,7 +1,7 @@
-<center><a href="https://github.com/k-ardliyan">
-  <img src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" width="200px" alt="Hi!">
-</a></center>
-<br>
+<p align="center">
+  <img width="250" src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif">
+</p>
+
 ### Hi there 👋
 
 <!-- **k-ardliyan/k-ardliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
