@@ -9,11 +9,11 @@
 Here are some ideas to get you started:
 - 😄 Pronouns: ... -->
 - 🔭 I’m currently working on Skripsi
-- 🌱 I’m currently learning PHP, Laravel,Javascript, Vue.js
-- 👯 I’m looking to collaborate on Slicing Design to Web
+- 🌱 I’m currently learning Laravel, Javascript, Flutter
+- 👯 I’m looking to collaborate on Slicing Design to Web/Mobile Flutter
 - 🤔 I’m looking for help with Design App
 - 💬 Ask me about Front-end Web
-- 📫 How to reach me on Discord User Ka.#5279
+- 📫 How to reach me on Discord User Ka.#2000
 - ⚡ Fun fact: just use google translate.
   
 <hr>
