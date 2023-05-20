@@ -9,12 +9,12 @@
 Here are some ideas to get you started:
 - 😄 Pronouns: ... -->
 - 🔭 I’m currently working on Skripsi
-- 🌱 I’m currently learning React
-- 👯 I’m looking to collaborate on Slicing Design to Web/Mobile Flutter
+- 🌱 I’m currently learning Next JS App Route
+- 👯 I’m looking to collaborate on Slicing Design to Web
 - 🤔 I’m looking for help with Design App
-- 💬 Ask me about Front-end Web
+- 💬 Ask me about Front-end Web Dev
 - 📫 How to reach me on Discord User Ka.#8406
-- ⚡ Fun fact: just use google translate.
+- ⚡ Fun fact: use the free ones first.
   
 <hr>
 
