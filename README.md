@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Next JS App Route
 - 👯 I’m looking to collaborate on Slicing Design to Web
 - 🤔 I’m looking for help with Design App
-- 💬 Ask me about Front-end Web Dev
-- 📫 How to reach me on Discord User Ka.#8406
+- 💬 Ask me about Perkodingan
+- 📫 How to reach me on Discord username k_ardliyan
 - ⚡ Fun fact: use the free ones first.
   
 <hr>
