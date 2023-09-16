@@ -9,8 +9,8 @@
 Here are some ideas to get you started:
 - 😄 Pronouns: ... -->
 - 🔭 I’m currently working on Skripsi
-- 🌱 I’m currently learning Next JS App Route
-- 👯 I’m looking to collaborate on Slicing Design to Web
+- 🌱 I’m currently learning Front-end Web at Dicoding
+- 👯 I’m looking to collaborate on Coding Web
 - 🤔 I’m looking for help with Design App
 - 💬 Ask me about Perkodingan
 - 📫 How to reach me on Discord username k_ardliyan
