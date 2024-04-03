@@ -8,8 +8,8 @@
 
 Here are some ideas to get you started:
 - 😄 Pronouns: ... -->
-- 🔭 I’m currently working on Skripsi
-- 🌱 I’m currently learning Front-end Web at Dicoding
+- 🔭 I’m currently working on Skripsi S1
+- 🌱 I’m currently learning Back-end Web at Dicoding X AWS
 - 👯 I’m looking to collaborate on Coding Web
 - 🤔 I’m looking for help with Design App
 - 💬 Ask me about Perkodingan
