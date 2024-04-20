@@ -2,7 +2,7 @@
   <img width="250" src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif">
 </p>
 
-### Hi there 👋
+### Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
 
 <!-- **k-ardliyan/k-ardliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Design App
 - 💬 Ask me about Perkodingan
 - 📫 How to reach me on Discord username k_ardliyan
-- ⚡ Fun fact: use the free ones first.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="👋" width="32" height="32"> Fun fact: use the free ones first.
   
 <hr>
 
