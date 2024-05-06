@@ -2,32 +2,25 @@
   <img width="250" src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif">
 </p>
 
-### Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32">
+# Hi there <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32" height="32"> <img src="https://komarev.com/ghpvc/?username=k-ardliyan&label=Profile%20views&color=0e75b6&style=flat" alt="@k-ardliyan Profile View"/>
 
 <!-- **k-ardliyan/k-ardliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 - 😄 Pronouns: ... -->
-- 🔭 I’m currently working on Skripsi S1
-- 🌱 I’m currently learning Back-end Web at Dicoding X AWS
-- 👯 I’m looking to collaborate on Coding Web
-- 🤔 I’m looking for help with Design App
-- 💬 Ask me about Perkodingan
-- 📫 How to reach me on Discord username k_ardliyan
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="👋" width="32" height="32"> Fun fact: use the free ones first.
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20"> I’m currently working on Skripsi S1
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> I’m currently learning Back-end Node.js & React Native
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fc/512.gif" alt="🙌" width="20" height="20"> I’m looking to collaborate on Coding
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="20" height="20"> I’m looking for help with Design Apps
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2049_fe0f/512.gif" alt="⁉" width="20" height="20"> Ask me about Your Code
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f514/512.gif" alt="🔔" width="20" height="20"> How to reach me on Discord username <strong>k_ardliyan</strong>
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="👋" width="20" height="20"> Fun fact: use the free ones first.
   
 <hr>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=k-ardliyan&label=Profile%20views&color=0e75b6&style=flat" alt="k-ardliyan"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ardliyan&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=react"alt="My Top Lang"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-ardliyan&show_icons=true&hide_title=true&theme=react" alt="My Stats"/>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ardliyan&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=react"alt="@k-ardliyan Top Lang"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=k-ardliyan&show_icons=true&hide_title=true&theme=react" alt="@k-ardliyan Stats"/>
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=54210855)
