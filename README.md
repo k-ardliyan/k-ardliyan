@@ -11,8 +11,6 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2049_fe0f/512.gif" alt="⁉" width="20" height="20"> Ask me about Your Code
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f514/512.gif" alt="🔔" width="20" height="20"> How to reach me on Discord username <strong>k_ardliyan</strong>
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="👋" width="20" height="20"> Fun fact: use the free ones first.
-  
-<hr>
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-ardliyan&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=react"alt="@k-ardliyan Top Lang"/>
