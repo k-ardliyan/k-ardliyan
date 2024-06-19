@@ -7,7 +7,7 @@
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/270f_fe0f/512.gif" alt="✏" width="20" height="20"> I’m currently working on Skripsi S1
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f331/512.gif" alt="🌱" width="20" height="20"> I’m currently learning Back-end Node.js & React Native Expo
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f64c_1f3fc/512.gif" alt="🙌" width="20" height="20"> I’m looking to collaborate on Coding
-- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="20" height="20"> I’m looking for help with Design Apps
+- <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f914/512.gif" alt="🤔" width="20" height="20"> I’m looking for help with Laravel React App 
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/2049_fe0f/512.gif" alt="⁉" width="20" height="20"> Ask me about Your Code
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f514/512.gif" alt="🔔" width="20" height="20"> How to reach me on Discord username <strong>k_ardliyan</strong>
 - <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/26a1/512.gif" alt="👋" width="20" height="20"> Fun fact: use the free ones first.
