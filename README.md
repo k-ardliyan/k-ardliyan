@@ -35,7 +35,7 @@ technical_background:
     "React Fundamentals Enthusiast",
     "Full Stack Developer - Filamentphp & Next.js"
   ]
-currently_learning: ["React", "Clean Architecture"]
+currently_learning: ["React Fundamentals", "Clean Architecture"]
 ```
 
 ## 💻 Tech Stack
