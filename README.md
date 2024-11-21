@@ -17,7 +17,7 @@
 ```yaml
 name: k-ardliyan
 located_in: Indonesian 🇮🇩
-current_job: Full-stack Developer
+current_job: Front-end Developer
 education:
   [
     "Information Technology",
