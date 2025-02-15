@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=@k-ardliyan&fontSize=36&fontAlignY=35&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=&fontSize=36&fontAlignY=35&animation=twinkling"/>
   
   <img width="250" src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" alt="welcome"/>
 
@@ -17,7 +17,7 @@
 ```yaml
 name: k-ardliyan
 located_in: Indonesian 🇮🇩
-current_job: Full-stack Developer
+current_job: Front-end Developer
 education:
   [
     "Information Technology",
