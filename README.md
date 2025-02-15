@@ -68,7 +68,7 @@ currently_learning: ["React Fundamentals", "Clean Architecture"]
 
 ### 💻 PC
 
-![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20Core_i3_2nd-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20Core_i7_3rd-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD%20SATA-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
 ### 💻 Laptop
 
