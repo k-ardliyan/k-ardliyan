@@ -15,27 +15,27 @@
 ## 🚀 About Me
 
 ```yaml
-name: k-ardliyan
-located_in: Indonesian 🇮🇩
-current_job: Front-end Developer
+name: "k-ardliyan"
+located_in: "Indonesia 🇮🇩"
+current_job: "Front-end Developer"
+company: "FTP"
+
 education:
-  [
-    "Information Technology",
-    "Self-Taught Developer"
-  ]
-company: FTP
+  - "Information Technology"
+  - "Self-Taught Developer"
+
 fields_of_interests:
-  [
-    "Web Development",
-    "UI/UX",
-    "DevOps"
-  ]
+  - "Web Development"
+  - "UI/UX"
+  - "DevOps"
+
 technical_background:
-  [
-    "React Fundamentals Enthusiast",
-    "Full Stack Developer - Filamentphp & Next.js"
-  ]
-currently_learning: ["React Fundamentals", "Clean Architecture"]
+  - "React"
+  - "Full Stack Developer - Laravel"
+
+currently_learning:
+  - "React Fundamentals"
+  - "Clean Architecture"
 ```
 
 ## 💻 Tech Stack
