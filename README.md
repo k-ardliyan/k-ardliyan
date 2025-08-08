@@ -18,7 +18,7 @@
 name: "k-ardliyan"
 located_in: "Indonesia 🇮🇩"
 current_job: "Front-end Developer"
-company: "FTP"
+company: "Teknologi Kartu Indonesia"
 
 education:
   - "Information Technology"
