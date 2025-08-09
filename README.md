@@ -72,7 +72,7 @@ currently_learning:
 
 ### 💻 Laptop
 
-![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![AMD](https://img.shields.io/badge/AMD%20Ryzen%203%207000-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Chrome](https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-20GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD_NVME-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
 ## 🤝 Connect With Me
 
