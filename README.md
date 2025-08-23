@@ -60,10 +60,6 @@ currently_learning:
   
 </div>
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=k-ardliyan&amp;theme=nord&amp;no-frame=true&amp;no-bg=false&amp;margin-w=4)
-
 ## 💼 My Workspace
 
 ### 💻 PC
