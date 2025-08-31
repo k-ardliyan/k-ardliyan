@@ -5,7 +5,7 @@
 
 # Hello Fellow Developers! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b_1f3fb/512.gif" alt="👋" width="32"/>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Full-stack+Developer;Always+learning+new+things;Love+to+collaborate)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&pause=1000&random=false&width=435&lines=Full-stack+Developer;Always+learning+new+things;Love+to+collaborate)](https://git.io/typing-svg)
   
   [![GitHub followers](https://img.shields.io/github/followers/k-ardliyan?style=social)](https://github.com/k-ardliyan)
   [![Discord](https://img.shields.io/badge/Discord-%40k__ardliyan-7289DA?logo=discord&logoColor=white)](https://discord.com)
