@@ -1,5 +1,4 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=&fontSize=36&fontAlignY=35&animation=twinkling"/>
   
   <img width="250" src="https://c.tenor.com/DcDYpWonGbIAAAAi/budding-pop-cute.gif" alt="welcome"/>
 
@@ -7,7 +6,7 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&pause=1000&random=false&width=435&lines=Full-stack+Developer;Always+learning+new+things;Love+to+collaborate)](https://git.io/typing-svg)
   
-  [![GitHub followers](https://img.shields.io/github/followers/k-ardliyan?style=social)](https://github.com/k-ardliyan) [![Discord](https://img.shields.io/badge/Discord-%40k__ardliyan-7289DA?logo=discord&logoColor=white)](https://discord.com) [![Profile Views](https://komarev.com/ghpvc/?username=k-ardliyan&color=blueviolet)](https://github.com/k-ardliyan)
+  [![GitHub followers](https://img.shields.io/github/followers/k-ardliyan?style=social)](https://github.com/k-ardliyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-ardliyan) [![Email](https://img.shields.io/badge/Email-hi@ka4.dev-red?style=flat&logo=gmail&logoColor=white)](mailto:hi@ka4.dev) [![Website](https://img.shields.io/badge/Website-www.ka4.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.ka4.dev) [![Discord](https://img.shields.io/badge/Discord-%40k__ardliyan-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com) [![Profile Views](https://komarev.com/ghpvc/?username=k-ardliyan&color=blueviolet)](https://github.com/k-ardliyan)
 </div>
 
 ## 🚀 About Me
@@ -19,13 +18,13 @@ current_job: "Front-end Developer"
 company: "Teknologi Kartu Indonesia"
 
 education:
-  - "Information Technology"
+  - "Bachelor of Information Technology (S1)"
   - "Self-Taught Developer"
 
 fields_of_interests:
   - "Web Development"
   - "UI/UX"
-  - "DevOps"
+  - "Automation"
 
 technical_background:
   - "React"
@@ -34,6 +33,7 @@ technical_background:
 currently_learning:
   - "React Fundamentals"
   - "Clean Architecture"
+  - "Continuously learning and keeping up with emerging technologies of the future"
 ```
 
 ## 💻 Tech Stack
@@ -60,24 +60,7 @@ currently_learning:
 
 ## 💼 My Workspace
 
-### 💻 PC
-
-![Windows](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20Core_i7_3rd-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-16GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD%20SATA-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-
 ### 💻 Laptop
 
 ![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-20GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD_NVME-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/k-ardliyan) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-ardliyan) ![Discord](https://img.shields.io/badge/Discord-@k__ardliyan-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-
-</div>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-</div>
-
-![Profile Hits](https://hit.yhype.me/github/profile?user_id=54210855)
