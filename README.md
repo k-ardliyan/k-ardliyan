@@ -6,6 +6,8 @@
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&pause=1000&random=false&width=435&lines=Full-stack+Developer;Always+learning+new+things;Love+to+collaborate)](https://git.io/typing-svg)
   
+  <h3>💼 Open to Freelance Projects — Available for Web & Mobile Development</h3>
+  
   [![GitHub followers](https://img.shields.io/github/followers/k-ardliyan?style=social)](https://github.com/k-ardliyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-ardliyan) [![Email](https://img.shields.io/badge/Email-hi@ka4.dev-red?style=flat&logo=gmail&logoColor=white)](mailto:hi@ka4.dev) [![Website](https://img.shields.io/badge/Website-www.ka4.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.ka4.dev) [![Discord](https://img.shields.io/badge/Discord-%40k__ardliyan-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com) [![Profile Views](https://komarev.com/ghpvc/?username=k-ardliyan&color=blueviolet)](https://github.com/k-ardliyan)
 </div>
 
@@ -15,7 +17,7 @@
 name: "k-ardliyan"
 located_in: "Indonesia 🇮🇩"
 current_job: "Front-end Developer"
-company: "Teknologi Kartu Indonesia"
+company: "PT. Teknologi Kartu Indonesia"
 
 education:
   - "Bachelor of Information Technology (S1)"
@@ -23,16 +25,17 @@ education:
 
 fields_of_interests:
   - "Web Development"
+  - "Mobile Development"
   - "UI/UX"
   - "Automation"
 
 technical_background:
-  - "React"
-  - "Full Stack Developer - Laravel"
+  - "React.js"
+  - "Full Stack Laravel"
+  - "Flutter"
 
 currently_learning:
-  - "React Fundamentals"
-  - "Clean Architecture"
+  - "Flutter with AI & Machine Learning - Dicoding"
   - "Continuously learning and keeping up with emerging technologies of the future"
 ```
 
@@ -62,5 +65,4 @@ currently_learning:
 
 ### 💻 Laptop
 
-![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-20GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD_NVME-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-
+![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-20GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD_NVME-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-6E56CF?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
