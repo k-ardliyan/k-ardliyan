@@ -8,7 +8,7 @@
   
   <h3>💼 Open to Freelance Projects — Available for Web & Mobile Development</h3>
   
-  [![GitHub followers](https://img.shields.io/github/followers/k-ardliyan?style=social)](https://github.com/k-ardliyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-ardliyan) [![Email](https://img.shields.io/badge/Email-hi@ka4.dev-red?style=flat&logo=gmail&logoColor=white)](mailto:hi@ka4.dev) [![Website](https://img.shields.io/badge/Website-www.ka4.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.ka4.dev) [![Discord](https://img.shields.io/badge/Discord-%40k__ardliyan-7289DA?style=flat&logo=discord&logoColor=white)](https://discord.com) [![Profile Views](https://komarev.com/ghpvc/?username=k-ardliyan&color=blueviolet)](https://github.com/k-ardliyan)
+  [![GitHub followers](https://img.shields.io/github/followers/k-ardliyan?style=social)](https://github.com/k-ardliyan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-ardliyan) [![Email](https://img.shields.io/badge/Email-hi@ka4.dev-red?style=flat&logo=gmail&logoColor=white)](mailto:hi@ka4.dev) [![Website](https://img.shields.io/badge/Website-www.ka4.dev-blue?style=flat&logo=google-chrome&logoColor=white)](https://www.ka4.dev) [![Profile Views](https://komarev.com/ghpvc/?username=k-ardliyan&color=blueviolet)](https://github.com/k-ardliyan)
 </div>
 
 ## 🚀 About Me
