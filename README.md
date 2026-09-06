@@ -27,7 +27,7 @@ fields_of_interests:
   - "Web Development"
   - "Mobile Development"
   - "UI/UX"
-  - "Automation"
+  - "Automation & QA"
 
 technical_background:
   - "React.js"
@@ -35,7 +35,7 @@ technical_background:
   - "Flutter"
 
 currently_learning:
-  - "Flutter with AI & Machine Learning - Dicoding"
+  - "Playwright (E2E Test Automation)"
   - "Continuously learning and keeping up with emerging technologies of the future"
 ```
 
@@ -43,11 +43,11 @@ currently_learning:
 
 ### 🚀 Current Stack
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.JS](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.JS](https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000000) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![TanStack](https://img.shields.io/badge/TanStack-%23FF4154.svg?style=for-the-badge&logo=tanstack&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![ElysiaJS](https://img.shields.io/badge/elysiajs-%232f52c1.svg?style=for-the-badge&logo=elysia&logoColor=white)
 
 ### 💪 Basic Stack Knowledge
 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-orange?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Filament](https://img.shields.io/badge/Filament-orange?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&amp;logo=laravel&amp;logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&amp;logo=php&amp;logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ## 📊 GitHub Stats
 
@@ -57,7 +57,7 @@ currently_learning:
 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=k-ardliyan&theme=react&hide_border=true)
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=k-ardliyan&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ardliyan&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=react&hide_border=true)
+  ![GitHub Stats](https://github-stats-extended.vercel.app/api?username=k-ardliyan&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true) ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=k-ardliyan&hide=jupyter%20notebook&langs_count=6&layout=compact&theme=react&hide_border=true)
   
 </div>
 
@@ -65,4 +65,4 @@ currently_learning:
 
 ### 💻 Laptop
 
-![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-20GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD_NVME-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-6E56CF?style=for-the-badge&logoColor=white) ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Intel](https://img.shields.io/badge/Intel%20Core_i7_13th-0071C5?style=for-the-badge&logo=intel&logoColor=white) ![RAM](https://img.shields.io/badge/RAM-20GB-%230071C5.svg?style=for-the-badge&logoColor=white) ![SSD](https://img.shields.io/badge/SSD_NVME-512GB-%23FF4B4B.svg?style=for-the-badge&logoColor=white) ![Edge](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-6E56CF?style=for-the-badge&logoColor=white) ![Zed](https://img.shields.io/badge/Zed-084CCF?style=for-the-badge&logo=zedindustries&logoColor=white) ![Hermes Agent](https://img.shields.io/badge/Hermes_Agent-000000?style=for-the-badge&logo=hermes&logoColor=white) ![9Router](https://img.shields.io/badge/9Router-%23E68A6E.svg?style=for-the-badge&logoColor=white)
